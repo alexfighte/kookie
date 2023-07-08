@@ -1,0 +1,152 @@
+body {
+    font-family: sans-serif;
+}
+
+.L {
+    font-size: 32px;
+    margin-right: 20px;
+    width: 250px;
+    height: 150px;
+    left: 29px;
+    top: 13px;
+    text-decoration: none;
+    color: #DB00FF;
+}
+nav{
+   background-color: #9FEEFF; 
+   padding: 25px;
+}
+nav a{
+    text-decoration: none;
+}
+
+.T{
+    color: black;
+    margin-right: 40px;
+}
+
+.k{
+    margin-right: 40px;
+    width: 86px;
+    height: 23px;
+    left: 442px;
+    top: 111px;
+    color: black;
+}
+
+.b{
+    margin-right: 40px;
+    color: black;
+    width: 95px;
+    height: 46px;
+    left: 588px;
+    top: 103px;
+}
+
+.a{
+    margin-right: 40px;
+    color: black;
+    width: 67px;
+    height: 23px;
+    left: 737px;
+    top: 106px;
+}
+
+.n{
+    margin-right: 40px;
+    color: black;
+    width: 94px;
+    height: 23px;
+    left: 884px;
+    top: 111px;
+
+}
+
+main{
+    background-color: #F090FF;
+    padding: 20px;
+}
+main h1{
+    font-size: 18px;
+    text-align: center;
+}
+
+.p{
+    font-size: 14px;
+    background-color: #FF0000;  
+    padding: 10px;
+    width: 80px;
+    margin-left: 41%;
+    margin-top: 20px;
+}
+.h1{
+    font-size: 24px;
+}
+
+.game{
+    width: 130px;
+}
+.Img{
+    width: 160px;
+    height: 210px;
+}
+
+.W{
+    width: 170px;
+    height: 30%;
+}
+
+div img{
+    width: 220px;
+    height: 40%;
+}
+
+div p{
+    width: 170px;
+}
+
+.Tip{
+    font-size: 24px;
+}
+div{
+    display: inline-block;
+    margin: 29px;
+    height: 400px;
+    width: 200px;
+}
+
+.Ad{
+    font-size: 18px;
+}
+
+.Adr{
+    text-align: center;
+    margin-left: 210px;
+    width: 45px;
+}
+
+footer{
+    background-color: #7DF7FF;
+}
+
+footer img{
+    width: 25px;
+    margin-bottom: 30px;
+}
+
+.image{
+    margin-left: 50px;
+}
+
+footer p{
+    margin-left: 50px;
+}
+
+.log{
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+}
+html{
+    background-color: #F090FF;
+}
